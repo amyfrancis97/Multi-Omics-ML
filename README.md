@@ -35,7 +35,7 @@ I then implemented a transformer-based model to explore non-linear and deep lear
 
 ### Reflections
 
-The biggest challenge was the small dataset size, which limits the potential of complex models. However, this also made the task more interesting and realistic in the context of biomedical applications, where sample sizes are often limited.
+The biggest challenge was the small dataset size, which can make complex models a challenge. However, this also made the task more interesting and realistic in the context of biomedical applications, where sample sizes are often limited.
 
 ## 📁 Project Structure
 
