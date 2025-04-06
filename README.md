@@ -76,4 +76,4 @@ Once the dependencies have been installed, the notebook should be ready to run.
 
 ## Time to Completion
 
-This project was completed over the course of a weekend (~2–3 days), including exploration, modelling, debugging, and documentation.
+This project was completed over the course of a weekend (~2–3 days), including exploration, modelling, and documentation.
