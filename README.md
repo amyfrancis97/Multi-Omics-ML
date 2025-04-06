@@ -1,10 +1,10 @@
-# Multi-Omics Prediction: Proteomics from Transcriptomics and Methylation 🧬
+# 🧬 Multi-Omics Prediction: Proteomics from Transcriptomics and Methylation 
 
 ## Project Overview
 
 This project tackles the challenge of predicting one omics modality (proteomics) from others (transcriptomics and methylation), within a multi-omics framework. The goal was to explore how effectively different data types can be leveraged to infer protein abundance, with the broader context of building models that could one day contribute to predictive tasks such as drug response.
 
-## Conceptual and Technical Approach
+## 🧠 Conceptual and Technical Approach 
 
 ### Initial Exploration
 
@@ -47,7 +47,7 @@ The biggest challenge was the small dataset size, which limits the potential of 
     ├── utils.py                # General functions and imports
     └── transformer_utils.py    # Transformer-specific functions and setup
 
-## How to Build and Run the Code
+## 🛠️ How to Build and Run the Code
 
 ### Environment Setup
 
@@ -84,6 +84,6 @@ To replicate the development environment, use the provided Conda environment fil
 
    Once the dependencies have been installed, the notebook should be ready to run.
 
-## Time to Completion
+## ⌛ Time to Completion
 
 This project was completed over the course of a weekend (~2–3 days), including exploration, modelling, and documentation.
