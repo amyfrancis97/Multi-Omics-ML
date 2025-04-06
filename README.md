@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project tackles the challenge of predicting one omics modality (proteomics) from others (transcriptomics and methylation), within a multi-omics framework. The goal was to explore how effectively different data types can be leveraged to infer protein abundance, with the broader context of building models that could one day contribute to predictive tasks such as drug response.
+This project tackles the challenge of predicting one omics modality (proteomics) from others (transcriptomics and methylation), within a multi-omics framework. 
 
 ## 🧠 Conceptual and Technical Approach 
 
