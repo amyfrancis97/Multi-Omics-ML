@@ -92,7 +92,7 @@ To replicate the development environment, use the provided Conda environment fil
    to:
    
    ```bash
-   data_folder = "/Users/your-username/path-to-your-data/Lung"
+   data_folder = "/path-to-your-data/Lung"
    ```
    
 ## ⌛ Time to Completion
