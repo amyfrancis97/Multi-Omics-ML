@@ -46,6 +46,7 @@ The biggest challenge was the small dataset size, which limits the potential of 
 └── utils/
     ├── utils.py                # General functions and imports
     └── transformer_utils.py    # Transformer-specific functions and setup
+```
 
 ## 🛠️ How to Build and Run the Code
 
