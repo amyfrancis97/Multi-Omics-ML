@@ -12,8 +12,7 @@ I began by exploring the dataset and quickly identified the high dimensionality 
 
 ### Choice of Modalities
 
-I chose transcriptomics and methylation as input modalities to predict proteomics, based on the biological hierarchy and mechanistic flow of gene expression regulation. Although copy number variation was considered as a future addition, its differing distribution and count-based nature made it a less straightforward integration at this stage.
-
+I chose transcriptomics and methylation as input modalities to predict proteomics, based on the biological hierarchy and mechanistic flow of gene expression regulation. 
 ### Dimensionality Challenges
 
 The dataset's high dimensionality posed immediate challenges. To mitigate this, I applied upsampling techniques to increase the sample size, which helped with model stability. I also implemented two baseline models:
