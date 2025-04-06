@@ -1,4 +1,4 @@
-# Multi-Omics Prediction: Proteomics from Transcriptomics and Methylation
+# Multi-Omics Prediction: Proteomics from Transcriptomics and Methylation 🧬
 
 ## Project Overview
 
