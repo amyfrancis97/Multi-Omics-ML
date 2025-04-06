@@ -84,7 +84,18 @@ To replicate the development environment, use the provided Conda environment fil
 5. **Run the Notebook**
 
    Once the dependencies have been installed, the notebook should be ready to run.
-
+   Update the path in the notebook to point to the location where the lung data is stored on your machine.
+   
+   ```bash
+   data_folder = "/Users/uw20204/Downloads/Lung"
+   ```
+   
+   to:
+   
+   ```bash
+   data_folder = "/Users/your-username/path-to-your-data/Lung"
+   ```
+   
 ## ⌛ Time to Completion
 
 This project was completed over the course of a weekend (~2–3 days), including exploration, modelling, and documentation.
