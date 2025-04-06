@@ -37,6 +37,16 @@ I then implemented a transformer-based model to explore non-linear and deep lear
 
 The biggest challenge was the small dataset size, which limits the potential of complex models. However, this also made the task more interesting and realistic in the context of biomedical applications, where sample sizes are often limited.
 
+## 📁 Project Structure
+
+```text
+.
+├── main.ipynb                  # Main notebook
+├── multi_omics_env.yml         # Conda environment
+└── utils/
+    ├── utils.py                # General functions and imports
+    └── transformer_utils.py    # Transformer-specific functions and setup
+
 ## How to Build and Run the Code
 
 ### Environment Setup
