@@ -455,7 +455,7 @@ def visualise_model_comparison(comparison_df):
     plt.show()
 
 #############################################################################   
-                              # Models
+                              # Baseline Models
 #############################################################################  
 
 def process_fold(fold_info, target_proteins, scaler_Y):
