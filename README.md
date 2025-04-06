@@ -54,8 +54,23 @@ To replicate the development environment, use the provided Conda environment fil
    ```bash
     conda activate multi_omics_env
    ```
-   
-3. **Run the Notebook**
+
+3. **Register the environment as a Jupyter kernel**
+
+This ensures the notebook's run using the correct environment:
+
+   ```bash
+   python -m ipykernel install --user --name=multi_omics_env
+   ```
+
+4. **Launch Jupyter Lab or Notebook**
+
+   ```bash
+   jupyter lab
+   ```
+Then, when opening a notebook, select the kernel named multi_omics_env from the kernel selector.
+
+5. **Run the Notebook**
 
 Once the dependencies have been installed, the notebook should be ready to run.
 
