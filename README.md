@@ -39,10 +39,23 @@ The biggest challenge was the small dataset size, which limits the potential of 
 
 ## How to Build and Run the Code
 
-1. **Install Dependencies**
+### Environment Setup
 
+To replicate the development environment, use the provided Conda environment file.
 
-2. **Run the Notebook**
+1. **Create the environment**  
+   Run the following command from the project root:
+
+   ```bash
+   conda env create -f multi_omics_env.yml
+   ```
+2. **Activate the environment**
+
+   ```bash
+    conda activate multi_omics_env
+   ```
+   
+3. **Run the Notebook**
 
 Once the dependencies have been installed, the notebook should be ready to run.
 
